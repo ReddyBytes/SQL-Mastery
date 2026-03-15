@@ -1,4 +1,5 @@
 
+
 # 3-Month SQL Learning Plan
 
 ## Month 1: SQL Fundamentals
