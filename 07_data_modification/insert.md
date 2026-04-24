@@ -235,3 +235,11 @@ If you're running inserts inside a transaction block (`BEGIN`), the data is invi
 **Prev:** [← String and Date Functions](../06_advanced_queries/string_and_date_functions.md) &nbsp;|&nbsp; **Next:** [UPDATE and DELETE →](./update_and_delete.md)
 
 **Related Topics:** [UPDATE and DELETE](./update_and_delete.md) · [Transactions](./transactions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q56 · insert-basics](../sql_practice_questions_100.md#q56--normal--insert-basics)
+- 📝 [Q57 · upsert-on-conflict](../sql_practice_questions_100.md#q57--design--upsert-on-conflict)
+

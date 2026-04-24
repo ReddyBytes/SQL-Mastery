@@ -311,3 +311,12 @@ FROM employees;
 **Prev:** [← CTEs](./ctes.md) &nbsp;|&nbsp; **Next:** [String and Date Functions →](./string_and_date_functions.md)
 
 **Related Topics:** [CTEs](./ctes.md) · [Subqueries](./subqueries.md) · [String and Date Functions](./string_and_date_functions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q51 · case-searched](../sql_practice_questions_100.md#q51--normal--case-searched)
+- 📝 [Q52 · conditional-aggregation](../sql_practice_questions_100.md#q52--thinking--conditional-aggregation)
+- 📝 [Q53 · coalesce-nullif](../sql_practice_questions_100.md#q53--critical--coalesce-nullif)
+

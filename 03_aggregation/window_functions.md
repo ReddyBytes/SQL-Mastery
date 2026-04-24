@@ -349,3 +349,18 @@ Key difference vs GROUP BY:
 **Prev:** [← GROUP BY and HAVING](./group_by_and_having.md) &nbsp;|&nbsp; **Next:** [Tables and Constraints →](../04_schema_design/tables_and_constraints.md)
 
 **Related Topics:** [Aggregate Functions](./aggregate_functions.md) · [GROUP BY and HAVING](./group_by_and_having.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q18 · window-functions-intro](../sql_practice_questions_100.md#q18--interview--window-functions-intro)
+- 📝 [Q19 · partition-by](../sql_practice_questions_100.md#q19--thinking--partition-by)
+- 📝 [Q20 · row-number-rank-dense-rank](../sql_practice_questions_100.md#q20--interview--row-number-rank-dense-rank)
+- 📝 [Q21 · lag-lead](../sql_practice_questions_100.md#q21--normal--lag-lead)
+- 📝 [Q22 · running-total](../sql_practice_questions_100.md#q22--logical--running-total)
+- 📝 [Q76 · explain-window-functions](../sql_practice_questions_100.md#q76--interview--explain-window-functions)
+- 📝 [Q89 · fraud-detection-query](../sql_practice_questions_100.md#q89--design--fraud-detection-query)
+- 📝 [Q99 · design-second-highest](../sql_practice_questions_100.md#q99--design--design-second-highest)
+- 📝 [Q100 · design-running-report](../sql_practice_questions_100.md#q100--design--design-running-report)
+

@@ -297,3 +297,11 @@ Key points:
 **Prev:** [← CROSS and SELF JOIN](./cross_and_self_join.md) &nbsp;|&nbsp; **Next:** [Subqueries →](../06_advanced_queries/subqueries.md)
 
 **Related Topics:** [INNER JOIN](./inner_join.md) · [LEFT/RIGHT/OUTER JOIN](./left_right_outer_join.md) · [CROSS and SELF JOIN](./cross_and_self_join.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q28 · anti-join](../sql_practice_questions_100.md#q28--thinking--anti-join)
+- 📝 [Q29 · junction-table](../sql_practice_questions_100.md#q29--design--junction-table)
+

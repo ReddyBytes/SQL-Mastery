@@ -304,3 +304,14 @@ WHERE id = (
 **Prev:** [← JOIN Patterns](../05_joins/join_patterns.md) &nbsp;|&nbsp; **Next:** [CTEs →](./ctes.md)
 
 **Related Topics:** [CTEs](./ctes.md) · [CASE and Conditionals](./case_and_conditionals.md) · [JOIN Patterns](../05_joins/join_patterns.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q43 · scalar-subquery](../sql_practice_questions_100.md#q43--normal--scalar-subquery)
+- 📝 [Q44 · derived-table](../sql_practice_questions_100.md#q44--normal--derived-table)
+- 📝 [Q45 · correlated-subquery](../sql_practice_questions_100.md#q45--thinking--correlated-subquery)
+- 📝 [Q46 · exists-vs-in](../sql_practice_questions_100.md#q46--critical--exists-vs-in)
+- 📝 [Q47 · not-exists](../sql_practice_questions_100.md#q47--design--not-exists)
+

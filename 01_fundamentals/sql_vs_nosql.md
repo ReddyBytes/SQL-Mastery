@@ -227,3 +227,10 @@ for aggregating relationships across millions of rows.
 **Prev:** [← Databases and RDBMS](./databases_and_rdbms.md) &nbsp;|&nbsp; **Next:** [SELECT and FROM →](../02_querying_basics/select_and_from.md)
 
 **Related Topics:** [What is SQL](./what_is_sql.md) · [Databases and RDBMS](./databases_and_rdbms.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q1 · sql-vs-nosql](../sql_practice_questions_100.md#q1--normal--sql-vs-nosql)
+

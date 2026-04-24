@@ -267,3 +267,12 @@ Always sort by column name in production code.
 **Prev:** [← WHERE and Filtering](./where_and_filtering.md) &nbsp;|&nbsp; **Next:** [DISTINCT and Aliases →](./distinct_and_aliases.md)
 
 **Related Topics:** [SELECT and FROM](./select_and_from.md) · [WHERE and Filtering](./where_and_filtering.md) · [DISTINCT and Aliases](./distinct_and_aliases.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q9 · order-by](../sql_practice_questions_100.md#q9--normal--order-by)
+- 📝 [Q10 · limit-offset](../sql_practice_questions_100.md#q10--thinking--limit-offset)
+- 📝 [Q98 · design-pagination](../sql_practice_questions_100.md#q98--design--design-pagination)
+

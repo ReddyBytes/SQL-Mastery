@@ -298,3 +298,14 @@ Safety checklist:
 **Prev:** [← INSERT](./insert.md) &nbsp;|&nbsp; **Next:** [Transactions →](./transactions.md)
 
 **Related Topics:** [INSERT](./insert.md) · [Transactions](./transactions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q58 · update-join](../sql_practice_questions_100.md#q58--normal--update-join)
+- 📝 [Q59 · delete-truncate](../sql_practice_questions_100.md#q59--interview--delete-truncate)
+- 📝 [Q60 · soft-delete](../sql_practice_questions_100.md#q60--design--soft-delete)
+- 📝 [Q86 · bulk-delete-scenario](../sql_practice_questions_100.md#q86--design--bulk-delete-scenario)
+- 📝 [Q96 · debug-update-no-where](../sql_practice_questions_100.md#q96--debug--debug-update-no-where)
+

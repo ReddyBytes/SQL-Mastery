@@ -286,6 +286,8 @@ COMMIT;
 
 [![Start Here](https://img.shields.io/badge/Start_Here-01_What_is_SQL-3B82F6?style=for-the-badge&logo=postgresql&logoColor=white)](./01_fundamentals/what_is_sql.md)
 
+**Want to test yourself?** → [100 SQL Practice Questions](./sql_practice_questions_100.md) — Basics to Mastery, answers hidden until clicked
+
 *SQL · PostgreSQL · Story-Based · Real Queries · Beginner to Production*
 
 </div>

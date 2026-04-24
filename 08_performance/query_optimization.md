@@ -253,3 +253,12 @@ JOIN   (
 **Prev:** [← Transactions](../07_data_modification/transactions.md) &nbsp;|&nbsp; **Next:** [Execution Plans →](./execution_plans.md)
 
 **Related Topics:** [Execution Plans](./execution_plans.md) · [Indexing Strategies](./indexing_strategies.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q71 · slow-query-causes](../sql_practice_questions_100.md#q71--thinking--slow-query-causes)
+- 📝 [Q73 · exists-in-join-perf](../sql_practice_questions_100.md#q73--thinking--exists-in-join-perf)
+- 📝 [Q83 · slow-table-scenario](../sql_practice_questions_100.md#q83--design--slow-table-scenario)
+

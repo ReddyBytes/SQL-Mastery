@@ -389,3 +389,11 @@ ORDER BY DATE_TRUNC('month', created_at);
 **Prev:** [← CASE and Conditionals](./case_and_conditionals.md) &nbsp;|&nbsp; **Next:** [INSERT →](../07_data_modification/insert.md)
 
 **Related Topics:** [CASE and Conditionals](./case_and_conditionals.md) · [Subqueries](./subqueries.md) · [CTEs](./ctes.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q54 · string-functions](../sql_practice_questions_100.md#q54--normal--string-functions)
+- 📝 [Q55 · date-functions](../sql_practice_questions_100.md#q55--normal--date-functions)
+

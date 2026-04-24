@@ -301,3 +301,14 @@ ALTER TABLE quick reference:
 **Prev:** [← Window Functions](../03_aggregation/window_functions.md) &nbsp;|&nbsp; **Next:** [Data Types →](./data_types.md)
 
 **Related Topics:** [Data Types](./data_types.md) · [Normalization](./normalization.md) · [Indexes](./indexes.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q30 · primary-key](../sql_practice_questions_100.md#q30--normal--primary-key)
+- 📝 [Q31 · foreign-key](../sql_practice_questions_100.md#q31--thinking--foreign-key)
+- 📝 [Q32 · constraints](../sql_practice_questions_100.md#q32--normal--constraints)
+- 📝 [Q87 · schema-design-twitter](../sql_practice_questions_100.md#q87--design--schema-design-twitter)
+- 📝 [Q88 · schema-design-booking](../sql_practice_questions_100.md#q88--design--schema-design-booking)
+

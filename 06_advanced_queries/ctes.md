@@ -324,3 +324,15 @@ Each CTE is one conceptual step. A reviewer can read `cohorts`, `activity`, `ret
 **Prev:** [← Subqueries](./subqueries.md) &nbsp;|&nbsp; **Next:** [CASE and Conditionals →](./case_and_conditionals.md)
 
 **Related Topics:** [Subqueries](./subqueries.md) · [CASE and Conditionals](./case_and_conditionals.md) · [Window Functions](../03_aggregation/window_functions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q48 · cte-basics](../sql_practice_questions_100.md#q48--normal--cte-basics)
+- 📝 [Q49 · recursive-cte](../sql_practice_questions_100.md#q49--design--recursive-cte)
+- 📝 [Q50 · cte-vs-subquery](../sql_practice_questions_100.md#q50--interview--cte-vs-subquery)
+- 📝 [Q77 · compare-cte-subquery](../sql_practice_questions_100.md#q77--interview--compare-cte-subquery)
+- 📝 [Q84 · duplicate-rows-scenario](../sql_practice_questions_100.md#q84--design--duplicate-rows-scenario)
+- 📝 [Q90 · cohort-retention](../sql_practice_questions_100.md#q90--design--cohort-retention)
+

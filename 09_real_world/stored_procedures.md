@@ -311,3 +311,10 @@ MySQL:       CREATE PROCEDURE + CALL, or CREATE FUNCTION + SELECT
 **Prev:** [← Views](./views.md) &nbsp;|&nbsp; **Next:** [Triggers →](./triggers.md)
 
 **Related Topics:** [Views](./views.md) · [Triggers](./triggers.md) · [Transactions](../07_data_modification/transactions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q67 · stored-procedures](../sql_practice_questions_100.md#q67--thinking--stored-procedures)
+

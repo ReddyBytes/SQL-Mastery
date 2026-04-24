@@ -351,3 +351,13 @@ Query execution order (memorise this):
 **Prev:** [← Aggregate Functions](./aggregate_functions.md) &nbsp;|&nbsp; **Next:** [Window Functions →](./window_functions.md)
 
 **Related Topics:** [Aggregate Functions](./aggregate_functions.md) · [Window Functions](./window_functions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q16 · group-by](../sql_practice_questions_100.md#q16--critical--group-by)
+- 📝 [Q17 · having-vs-where](../sql_practice_questions_100.md#q17--thinking--having-vs-where)
+- 📝 [Q92 · predict-having-where](../sql_practice_questions_100.md#q92--logical--predict-having-where)
+- 📝 [Q94 · debug-wrong-group-by](../sql_practice_questions_100.md#q94--debug--debug-wrong-group-by)
+

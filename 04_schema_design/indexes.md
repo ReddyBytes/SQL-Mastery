@@ -275,3 +275,16 @@ Key insight:
 **Prev:** [← Normalization](./normalization.md) &nbsp;|&nbsp; **Next:** [INNER JOIN →](../05_joins/inner_join.md)
 
 **Related Topics:** [Tables and Constraints](./tables_and_constraints.md) · [Normalization](./normalization.md) · [Query Optimization](../08_performance/query_optimization.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q38 · btree-index](../sql_practice_questions_100.md#q38--thinking--btree-index)
+- 📝 [Q39 · composite-index-order](../sql_practice_questions_100.md#q39--critical--composite-index-order)
+- 📝 [Q40 · partial-index](../sql_practice_questions_100.md#q40--design--partial-index)
+- 📝 [Q41 · covering-index](../sql_practice_questions_100.md#q41--thinking--covering-index)
+- 📝 [Q42 · index-when-not](../sql_practice_questions_100.md#q42--critical--index-when-not)
+- 📝 [Q78 · explain-indexes](../sql_practice_questions_100.md#q78--interview--explain-indexes)
+- 📝 [Q97 · design-index-strategy](../sql_practice_questions_100.md#q97--design--design-index-strategy)
+

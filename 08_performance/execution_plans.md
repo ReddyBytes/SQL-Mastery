@@ -264,3 +264,11 @@ Red flags to investigate:
 **Prev:** [← Query Optimization](./query_optimization.md) &nbsp;|&nbsp; **Next:** [Indexing Strategies →](./indexing_strategies.md)
 
 **Related Topics:** [Query Optimization](./query_optimization.md) · [Indexing Strategies](./indexing_strategies.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q69 · explain-plan](../sql_practice_questions_100.md#q69--thinking--explain-plan)
+- 📝 [Q70 · explain-analyze](../sql_practice_questions_100.md#q70--thinking--explain-analyze)
+

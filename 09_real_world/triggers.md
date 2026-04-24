@@ -298,3 +298,10 @@ Avoid for: complex business logic, anything better handled in app code
 **Prev:** [← Stored Procedures](./stored_procedures.md) &nbsp;|&nbsp; **Next:** [SQL with Python →](./sql_with_python.md)
 
 **Related Topics:** [Views](./views.md) · [Stored Procedures](./stored_procedures.md) · [INSERT](../07_data_modification/insert.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q68 · triggers](../sql_practice_questions_100.md#q68--thinking--triggers)
+

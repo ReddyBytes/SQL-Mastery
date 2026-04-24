@@ -323,3 +323,12 @@ Result:
 **Prev:** [← ORDER BY and LIMIT](./order_by_and_limit.md) &nbsp;|&nbsp; **Next:** [Aggregate Functions →](../03_aggregation/aggregate_functions.md)
 
 **Related Topics:** [SELECT and FROM](./select_and_from.md) · [WHERE and Filtering](./where_and_filtering.md) · [ORDER BY and LIMIT](./order_by_and_limit.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q11 · distinct](../sql_practice_questions_100.md#q11--normal--distinct)
+- 📝 [Q12 · aliases](../sql_practice_questions_100.md#q12--normal--aliases)
+- 📝 [Q95 · debug-distinct-perf](../sql_practice_questions_100.md#q95--debug--debug-distinct-perf)
+

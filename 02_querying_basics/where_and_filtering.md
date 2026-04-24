@@ -304,3 +304,14 @@ Result: JBL Clip 4 ($59.99, 4.5), Sony WH-1000XM5 ($279.99, 4.8), Dell Monitor (
 **Prev:** [← SELECT and FROM](./select_and_from.md) &nbsp;|&nbsp; **Next:** [ORDER BY and LIMIT →](./order_by_and_limit.md)
 
 **Related Topics:** [SELECT and FROM](./select_and_from.md) · [ORDER BY and LIMIT](./order_by_and_limit.md) · [DISTINCT and Aliases](./distinct_and_aliases.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q4 · where-filtering](../sql_practice_questions_100.md#q4--normal--where-filtering)
+- 📝 [Q5 · between-in-like](../sql_practice_questions_100.md#q5--normal--between-in-like)
+- 📝 [Q6 · is-null](../sql_practice_questions_100.md#q6--critical--is-null)
+- 📝 [Q7 · null-handling](../sql_practice_questions_100.md#q7--critical--null-handling)
+- 📝 [Q8 · and-or-not](../sql_practice_questions_100.md#q8--thinking--and-or-not)
+

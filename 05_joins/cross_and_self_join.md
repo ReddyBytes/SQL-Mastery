@@ -244,3 +244,11 @@ The `a.id < b.id` condition is a standard technique to avoid producing both `(La
 **Prev:** [← LEFT / RIGHT / OUTER JOIN](./left_right_outer_join.md) &nbsp;|&nbsp; **Next:** [JOIN Patterns →](./join_patterns.md)
 
 **Related Topics:** [INNER JOIN](./inner_join.md) · [LEFT/RIGHT/OUTER JOIN](./left_right_outer_join.md) · [JOIN Patterns](./join_patterns.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q26 · cross-join](../sql_practice_questions_100.md#q26--critical--cross-join)
+- 📝 [Q27 · self-join](../sql_practice_questions_100.md#q27--normal--self-join)
+

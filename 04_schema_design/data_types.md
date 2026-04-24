@@ -236,3 +236,10 @@ WHERE payload->>'source' = 'organic';
 **Prev:** [← Tables and Constraints](./tables_and_constraints.md) &nbsp;|&nbsp; **Next:** [Normalization →](./normalization.md)
 
 **Related Topics:** [Tables and Constraints](./tables_and_constraints.md) · [Normalization](./normalization.md) · [Indexes](./indexes.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q33 · data-types](../sql_practice_questions_100.md#q33--interview--data-types)
+

@@ -265,3 +265,15 @@ ACID:
 **Prev:** [← UPDATE and DELETE](./update_and_delete.md) &nbsp;|&nbsp; **Next:** [Query Optimization →](../08_performance/query_optimization.md)
 
 **Related Topics:** [INSERT](./insert.md) · [UPDATE and DELETE](./update_and_delete.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q61 · acid-properties](../sql_practice_questions_100.md#q61--interview--acid-properties)
+- 📝 [Q62 · transaction-basics](../sql_practice_questions_100.md#q62--normal--transaction-basics)
+- 📝 [Q63 · savepoint](../sql_practice_questions_100.md#q63--normal--savepoint)
+- 📝 [Q64 · isolation-levels](../sql_practice_questions_100.md#q64--interview--isolation-levels)
+- 📝 [Q80 · explain-acid](../sql_practice_questions_100.md#q80--interview--explain-acid)
+- 📝 [Q85 · blocking-transaction-scenario](../sql_practice_questions_100.md#q85--design--blocking-transaction-scenario)
+

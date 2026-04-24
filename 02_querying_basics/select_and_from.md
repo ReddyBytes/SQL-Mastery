@@ -283,3 +283,11 @@ WHERE  country = 'USA';
 **Prev:** [← SQL vs NoSQL](../01_fundamentals/sql_vs_nosql.md) &nbsp;|&nbsp; **Next:** [WHERE and Filtering →](./where_and_filtering.md)
 
 **Related Topics:** [WHERE and Filtering](./where_and_filtering.md) · [ORDER BY and LIMIT](./order_by_and_limit.md) · [DISTINCT and Aliases](./distinct_and_aliases.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q2 · select-basics](../sql_practice_questions_100.md#q2--normal--select-basics)
+- 📝 [Q3 · execution-order](../sql_practice_questions_100.md#q3--thinking--execution-order)
+

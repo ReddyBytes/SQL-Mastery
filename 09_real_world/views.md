@@ -272,3 +272,12 @@ Key distinctions:
 **Prev:** [← Indexing Strategies](../08_performance/indexing_strategies.md) &nbsp;|&nbsp; **Next:** [Stored Procedures →](./stored_procedures.md)
 
 **Related Topics:** [Stored Procedures](./stored_procedures.md) · [Triggers](./triggers.md) · [SQL with Python](./sql_with_python.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q65 · views](../sql_practice_questions_100.md#q65--design--views)
+- 📝 [Q66 · materialized-views](../sql_practice_questions_100.md#q66--interview--materialized-views)
+- 📝 [Q81 · compare-view-matview](../sql_practice_questions_100.md#q81--interview--compare-view-matview)
+

@@ -377,3 +377,10 @@ Placeholder syntax:
 **Prev:** [← Triggers](./triggers.md) &nbsp;|&nbsp; **Next:** [SQL Interview Questions →](../99_interview_master/sql_questions.md)
 
 **Related Topics:** [Views](./views.md) · [Stored Procedures](./stored_procedures.md) · [Transactions](../07_data_modification/transactions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q75 · sql-with-python](../sql_practice_questions_100.md#q75--thinking--sql-with-python)
+

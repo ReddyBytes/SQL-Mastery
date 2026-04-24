@@ -304,3 +304,12 @@ Chain outer joins just like inner joins — each preserves the rows of its left 
 **Prev:** [← INNER JOIN](./inner_join.md) &nbsp;|&nbsp; **Next:** [CROSS and SELF JOIN →](./cross_and_self_join.md)
 
 **Related Topics:** [INNER JOIN](./inner_join.md) · [CROSS and SELF JOIN](./cross_and_self_join.md) · [JOIN Patterns](./join_patterns.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q24 · left-join](../sql_practice_questions_100.md#q24--thinking--left-join)
+- 📝 [Q25 · full-outer-join](../sql_practice_questions_100.md#q25--interview--full-outer-join)
+- 📝 [Q93 · predict-join-nulls](../sql_practice_questions_100.md#q93--logical--predict-join-nulls)
+

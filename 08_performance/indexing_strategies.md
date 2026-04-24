@@ -291,3 +291,11 @@ When NOT to index:  low-cardinality, write-heavy, tiny tables
 **Prev:** [← Execution Plans](./execution_plans.md) &nbsp;|&nbsp; **Next:** [Views →](../09_real_world/views.md)
 
 **Related Topics:** [Query Optimization](./query_optimization.md) · [Execution Plans](./execution_plans.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q72 · index-on-function](../sql_practice_questions_100.md#q72--thinking--index-on-function)
+- 📝 [Q74 · index-bloat](../sql_practice_questions_100.md#q74--thinking--index-bloat)
+

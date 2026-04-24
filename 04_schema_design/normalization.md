@@ -332,3 +332,14 @@ Golden rule:
 **Prev:** [← Data Types](./data_types.md) &nbsp;|&nbsp; **Next:** [Indexes →](./indexes.md)
 
 **Related Topics:** [Tables and Constraints](./tables_and_constraints.md) · [Data Types](./data_types.md) · [Indexes](./indexes.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q34 · normalization-1nf](../sql_practice_questions_100.md#q34--interview--normalization-1nf)
+- 📝 [Q35 · normalization-2nf](../sql_practice_questions_100.md#q35--interview--normalization-2nf)
+- 📝 [Q36 · normalization-3nf](../sql_practice_questions_100.md#q36--interview--normalization-3nf)
+- 📝 [Q37 · denormalization](../sql_practice_questions_100.md#q37--design--denormalization)
+- 📝 [Q82 · compare-norm-denorm](../sql_practice_questions_100.md#q82--interview--compare-norm-denorm)
+

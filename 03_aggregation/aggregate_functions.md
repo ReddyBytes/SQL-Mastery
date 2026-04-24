@@ -359,3 +359,13 @@ Key rules:
 **Prev:** [← DISTINCT and Aliases](../02_querying_basics/distinct_and_aliases.md) &nbsp;|&nbsp; **Next:** [GROUP BY and HAVING →](./group_by_and_having.md)
 
 **Related Topics:** [GROUP BY and HAVING](./group_by_and_having.md) · [Window Functions](./window_functions.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q13 · count](../sql_practice_questions_100.md#q13--critical--count)
+- 📝 [Q14 · sum-avg-min-max](../sql_practice_questions_100.md#q14--normal--sum-avg-min-max)
+- 📝 [Q15 · null-in-aggregates](../sql_practice_questions_100.md#q15--thinking--null-in-aggregates)
+- 📝 [Q91 · predict-null-aggregate](../sql_practice_questions_100.md#q91--logical--predict-null-aggregate)
+

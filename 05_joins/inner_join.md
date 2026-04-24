@@ -289,3 +289,11 @@ All major databases support standard INNER JOIN syntax. No dialect differences t
 **Prev:** [← Indexes](../04_schema_design/indexes.md) &nbsp;|&nbsp; **Next:** [LEFT / RIGHT / OUTER JOIN →](./left_right_outer_join.md)
 
 **Related Topics:** [LEFT/RIGHT/OUTER JOIN](./left_right_outer_join.md) · [CROSS and SELF JOIN](./cross_and_self_join.md) · [JOIN Patterns](./join_patterns.md)
+
+---
+
+## 📝 Practice Questions
+
+- 📝 [Q23 · inner-join](../sql_practice_questions_100.md#q23--normal--inner-join)
+- 📝 [Q79 · compare-joins](../sql_practice_questions_100.md#q79--interview--compare-joins)
+
